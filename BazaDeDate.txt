@@ -1,0 +1,19 @@
+
+Lista de persoane:
+User: <meHIGH>    Nume: <Secosan Mihai>    Adresa: <Snagov 1>
+User: <drag000s>    Nume: <Bucsa Dragos>    Adresa: <Snagov 11>
+User: <spidi>    Nume: <Blezu Iosif>    Adresa: <Rasinari 14>
+User: <devx>    Nume: <Stoica Sergiu>    Adresa: <Doamna Stanca 23>
+User: <sebi>    Nume: <Faghi Sebastian>    Adresa: <Calea Surii Mici 7>
+
+Lista de evenimente:
+ID: <0000>    Data si ora: <2022/12/12 20:00>    Descriere: <ziua lui dragos>
+ID: <0001>    Data si ora: <2023/01/01 00:00>    Descriere: <revelion>
+ID: <0002>    Data si ora: <2023/02/10 09:00>    Descriere: <sesiune>
+ID: <0003>    Data si ora: <2022/12/10 09:00>    Descriere: <test partial ASC>
+
+Lista de inscrieri:
+meHIGH: <0000>; <0001>; <0002>; <0003>
+drag000s: <0000>; <0001>
+spidi: <0001>; <0002>; <0003>
+sebi: <0000>
